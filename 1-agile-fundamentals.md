@@ -60,7 +60,8 @@
 
     - has never worked in `large software development`.
     - waterfall principles are still ingrained in they way we work today.
-    #img1
+  ![agile-fundamentals-1](https://github.com/anupmaharzn/agile/assets/34486226/07f06874-2b3d-414e-86ad-36bde9cfc124)
+
 
 
 ## What is agile?
@@ -68,14 +69,15 @@
 - Agile is a growth mindset.It's a way of working grounded in a culture of learning.
 
 
-#img2
+![agile-fundamentals-2](https://github.com/anupmaharzn/agile/assets/34486226/f65ba580-3fb9-4b2a-a12d-8a5d822956d5)
+
 
 
 ## Agile in Practice
 
-### SCRUM FRAMEWORK
+- ### SCRUM FRAMEWORK
 
-#img3
+![agile-fundamentals-3](https://github.com/anupmaharzn/agile/assets/34486226/ff4774dd-0140-492d-b8f2-bc8aefe553df)
 
 
 - **Scrum-Glossary**

@@ -157,7 +157,8 @@
 - User stories are also the building blocks of larger agile frameworks like `epics` and `initatives`.
     - Epics are large work items broken down into a set of stories and multiple epics comprise an initative.
 
-#img
+![userstory](https://github.com/anupmaharzn/agile/assets/34486226/8d05975c-e7c5-4d9f-81b4-5909ccc523d6)
+
 
 - `Stories give the team important context and associate tasks with the value those tasks bring`
 
@@ -180,7 +181,8 @@
 
     - agile project management tool designed to help `visualize work`, `limit work-in-progress`, and `maximize efficiency(or flow)`.
 
-    #img
+![Elements_of_a_kanban_board](https://github.com/anupmaharzn/agile/assets/34486226/77fef241-cbfd-4add-9ec7-8df6113232d9)
+
 
 
 - **kanban Card**

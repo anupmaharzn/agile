@@ -145,3 +145,53 @@
             - `Daily Scrum`
             - `Sprint Review`
             - `Sprint Retrospective`
+
+
+### user stories
+
+- A user story is an informal, general explanation of the software feature written from the `perspective` of the `end user`.
+
+- Stories fit neatly into agile frameworks like `Scrum` and `Kanban`
+
+
+- User stories are also the building blocks of larger agile frameworks like `epics` and `initatives`.
+    - Epics are large work items broken down into a set of stories and multiple epics comprise an initative.
+
+#img
+
+- `Stories give the team important context and associate tasks with the value those tasks bring`
+
+
+
+## KanBan
+
+- Kanban is a popular framework used to implement `agile` and `DevOps` software development.
+
+- `Work items` are `represented` visually on a `Kanban board`, allowing team members to see the state of every piece of work at any time.
+
+- 4 core principles
+    - `Start with what you know`
+    - `pursue incremental change`
+    - `respect the current process`
+    - `encourage leadership at all levels`
+
+
+- **Kanban Board**
+
+    - agile project management tool designed to help `visualize work`, `limit work-in-progress`, and `maximize efficiency(or flow)`.
+
+    #img
+
+
+- **kanban Card**
+
+    - A kanban card is visual representation of an item of work.
+
+    - It's an essential component of the kanban method.
+
+    - Each `kanban card` represents a `single work item` as it moves through various stages of completion.(`means one kanban card for one user story`).
+    
+    - Info like `title`,`desc`,`owner`,`also timeline`
+
+
+

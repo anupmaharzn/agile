@@ -7,7 +7,7 @@
 - `Manifesto for Agile Software Development`
     - **`We are uncovering bettwe ways of developing software by doing it and helping others do it.`**
 
-    - **`**4 VALUES of Agile Manifesto`**
+    - **`4 VALUES of Agile Manifesto`**
         - *`Individuals nad interactions over processes and tools`*
         - *`Working software over comprehensive documentation`*
         - *`Customers colloboration over contract negotiation`*
